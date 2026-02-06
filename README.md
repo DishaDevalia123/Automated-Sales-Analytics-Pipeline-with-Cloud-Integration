@@ -172,10 +172,3 @@ This pipeline enables:
 - Create mobile-responsive dashboard versions
 - Add data quality monitoring and alerting
 
-## Contact
-
-For questions or collaboration opportunities, feel free to reach out.
-
----
-
-**Note:** This project demonstrates skills in cloud architecture, ETL automation, database design, and business intelligence - core competencies for modern data analytics roles.
